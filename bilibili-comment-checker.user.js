@@ -87,7 +87,7 @@ $(function () {
                 7761588, // _Karasu_
                 299013902, // 炫神_
             ]
-        }
+        },
         {
             displayName: "华为",
             color: "#F21910",
