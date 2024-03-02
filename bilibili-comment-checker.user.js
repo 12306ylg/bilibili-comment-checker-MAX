@@ -88,6 +88,133 @@ $(function () {
                 299013902, // 炫神_
             ]
         }
+        {
+            displayName: "华为",
+            color: "#F21910",
+            displayIcon: "https://i2.hdslb.com/bfs/face/d09290cd18c3e048ca0b2eefa3647a487ed11b77.jpg@240w_240h_1c_1s.jpg",
+            keywords: ["鸿蒙", "harmonyos"],
+            followings: [
+                102999485, // 华为终端
+                578227337, // 华为
+            ]
+        },
+        {
+            displayName: "小粉红",
+            color: "#F21910",
+            displayIcon: "https://i1.hdslb.com/bfs/face/05725218e6cd8d0916da4f27ab56ca0957545c48.jpg@240w_240h_1c_1s.jpg",
+            keywords: [],
+            followings: [
+                20165629, // 共青团中央
+                330383888, // 广东
+                384298638, // 浙江
+                323194278, // 河南
+                43563506, // 湖南
+                483940995, // 四川
+                109586062, // 江西
+                268810504, // 安徽
+                543191732, // 江苏
+                28897026, // 福建
+                212375551, //重庆
+                285216473, // 云南
+                549825865, // 广西
+                330761958, // 天津
+                452215100, // 贵州
+                503541644, // 郑州
+                390779965, // 辽宁
+                514470783, // 甘肃
+                1750381621, // 山西
+                479591412, // 新疆
+                1424484345, // 河北
+                504505810, // 河北
+                99906730, // 海南
+                90548795, // 陕西
+                1087482281, // 外交部
+                10330740, // 观察者网
+                335850246, // 玉渊谭天
+                1735615743, // 东部战区
+                1234464194, // 南部战区
+                1801853335, // 牛弹琴
+                516260902, // 侠客岛
+                405952693, // 枢密院十号
+                630882981, // 长安街知事
+                1131457022, // 人民日报
+                346563107, // 波士顿圆脸
+                648113003, // 沈逸
+            ]
+        },
+        {
+            displayName: "Asoul",
+            color: "#DC9B9B",
+            displayIcon: "https://i2.hdslb.com/bfs/face/43b21998da8e7e210340333f46d4e2ae7ec046eb.jpg@240w_240h_1c_1s.jpg",
+            keywords: ["@A-SOUL_Official", "#A_SOUL#"],
+            followings: [
+                703007996, // Asoul
+                547510303, // Asoul二创计画
+                672342685, // 乃琳Queen
+                351609538, // 珈乐Carol
+                672346917, // 向晚大魔王
+                672353429, // 贝拉kira
+            ]
+        },
+        {
+            displayName: "迷你世界",
+            color: "#FA00F9",
+            displayIcon: "https://i2.hdslb.com/bfs/face/749e54701626cde430616041a53bcc1e25ce8327.jpg@240w_240h_1c_1s.jpg",
+            keywords: ["迷你世界"],
+            followings: [
+                1897251467, // 迷你世界阳阳
+                1746881, // CH明明
+                470935187, // 迷你世界官方频道
+            ]
+        },
+        {
+            displayName: "我的世界",
+            color: "#6ABD4C",
+            displayIcon: "https://i0.hdslb.com/bfs/face/c5578966c447a70edf831bbf7e522b7be6090fea.jpg@240w_240h_1c_1s.jpg",
+            keywords: ["我的世界"],
+            followings: [
+                43310262, // 我的世界
+                686127, // 籽岷
+            ]
+        },
+        {
+            displayName: "和平精英",
+            color: "#F3CB83",
+            displayIcon: "https://i2.hdslb.com/bfs/face/f874d1aecf0dbd6d0cec149c3b5e92cf4da85190.jpg@240w_240h_1c_1s.jpg",
+            keywords: ["和平精英"],
+            followings: [
+                434786180, // 和平精英
+            ]
+        },
+        {
+            displayName: "明日方舟",
+            color: "#5C636A",
+            displayIcon: "https://i0.hdslb.com/bfs/face/d4005a0f9b898d8bb049caf9c6355f8e8f772a8f.jpg@240w_240h_1c_1s.jpg",
+            keywords: ["明日方舟"],
+            followings: [
+                161775300, // 明日方舟
+                53466, // 海猫络合物
+            ]
+        },
+        {
+            displayName: "球球大作战",
+            color: "#E1A53E",
+            displayIcon: "https://i1.hdslb.com/bfs/face/09b00d35a88cbfb7c570d5299af7bbb69c84e19c.jpg@240w_240h_1c_1s.jpg",
+            keywords: ["球球大作战","球球号"],
+            followings: [
+                186701878, // 明日方舟
+            ]
+        },
+        {
+            displayName: "刀塔",
+            color: "#C93032",
+            displayIcon: "https://i2.hdslb.com/bfs/face/9fd7c45dc369330954da59844fecfd8f21e35e65.jpg@240w_240h_1c_1s.jpg",
+            keywords: ["刀塔","dota"],
+            followings: [
+                17561885, // 哔哩哔哩刀塔2赛事
+                296732, // DOTA2国服
+            ]
+        }
 
 
     ]
