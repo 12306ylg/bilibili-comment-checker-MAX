@@ -5,7 +5,9 @@ B站评论区自动标注成分油猴脚本，主要为原神玩家识别。
 * 支持视频、动态等页面的显示和识别
 * 支持添加自定义的识别
 * 添加查询按钮，避免频繁访问接口被封号
-
+  部分来自fork
+https://github.com/KarlLee830/bilibili-comment-checker
+https://github.com/EvanClausen111/bilibili-comment-checker-Pro/
 ## Credit
 本脚本动态信息获取代码来源自[原神玩家指示器作者 laupuz xu](https://greasyfork.org/zh-CN/scripts/450720-原神玩家指示器)
 
