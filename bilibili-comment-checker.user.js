@@ -19,7 +19,7 @@ $(function () {
     // 在这里配置要检查的成分
     const checkers = [
         {
-            displayName: "原神",
+            displayName: "原",
             displayIcon: "https://i2.hdslb.com/bfs/face/d2a95376140fb1e5efbcbed70ef62891a3e5284f.jpg@240w_240h_1c_1s.jpg",
             keywords: ["互动抽奖 #原神", "#米哈游#", "#miHoYo#","原石"],
             followings: [401742377] // 原神官方号的 UID
@@ -31,7 +31,7 @@ $(function () {
             followings: [27534330] // 崩坏3官方号的 UID
         },
         {
-            displayName: "王者荣耀",
+            displayName: "农",
             displayIcon: "https://i2.hdslb.com/bfs/face/effbafff589a27f02148d15bca7e97031a31d772.jpg@240w_240h_1c_1s.jpg",
             keywords: ["互动抽奖 #王者荣耀","超标","巅峰赛"],
             followings: [57863910, 392836434] // “王者荣耀” & “哔哩哔哩王者荣耀赛事”
@@ -157,7 +157,7 @@ $(function () {
             ]
         },
         {
-            displayName: "迷你世界",
+            displayName: "米米世界",
             color: "#FA00F9",
             displayIcon: "https://i2.hdslb.com/bfs/face/749e54701626cde430616041a53bcc1e25ce8327.jpg@240w_240h_1c_1s.jpg",
             keywords: ["迷你世界"],
@@ -168,10 +168,10 @@ $(function () {
             ]
         },
         {
-            displayName: "我的世界",
+            displayName: "安慕希",
             color: "#6ABD4C",
             displayIcon: "https://i0.hdslb.com/bfs/face/c5578966c447a70edf831bbf7e522b7be6090fea.jpg@240w_240h_1c_1s.jpg",
-            keywords: ["我的世界"],
+            keywords: ["mc","我的世界","Minecraft","Mc","mC","minecraft"],
             followings: [
                 43310262, // 我的世界
                 686127, // 籽岷
@@ -214,8 +214,12 @@ $(function () {
                 17561885, // 哔哩哔哩刀塔2赛事
                 296732, // DOTA2国服
             ]
-        }
-
+        },
+        {
+            displayName: "互动抽奖",
+            displayIcon: "https://i.miji.bid/2024/01/04/39f11cfd8df7c21e8e2415444fc34bde.jpeg",
+            keywords: ["互动抽奖"],
+        },
 
     ]
 
