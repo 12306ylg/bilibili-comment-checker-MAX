@@ -22,13 +22,13 @@ $(function () {
             displayName: "原",
             displayIcon: "https://i2.hdslb.com/bfs/face/d2a95376140fb1e5efbcbed70ef62891a3e5284f.jpg@240w_240h_1c_1s.jpg",
             keywords: ["互动抽奖 #原神", "#米哈游#", "#miHoYo#","原石"],
-            followings: [401742377] // 原神官方号的 UID
+            followings: [401742377] // 原神官方
         },
         {
             displayName: "崩坏3",
             displayIcon: "https://i0.hdslb.com/bfs/face/f861b2ff49d2bb996ec5fd05ba7a1eeb320dbf7b.jpg@240w_240h_1c_1s.jpg",
             keywords: ["​互动抽奖 #崩坏", "关注爱酱并转发本条动态"],
-            followings: [27534330] // 崩坏3官方号的 UID
+            followings: [27534330] // 崩坏3官方
         },
         {
             displayName: "农",
@@ -39,24 +39,11 @@ $(function () {
         {
             displayName: "VTB",
             displayIcon: "https://i2.hdslb.com/bfs/face/d399d6f5cf7943a996ae96999ba3e6ae2a2988de.jpg@240w_240h_1c_1s.jpg",
-            keywords: ["@嘉然今天吃什么"],
+            keywords: ["@嘉然今天吃什么"，"罕见"],
             followings: [
                 672328094, // 嘉然今天吃什么
                 1437582453, // 東雪蓮Official
                 1265680561, // 永雏塔菲
-            ]
-        },
-        {
-            displayName: "Asoul",
-            displayIcon: "https://i2.hdslb.com/bfs/face/43b21998da8e7e210340333f46d4e2ae7ec046eb.jpg@240w_240h_1c_1s.jpg",
-            keywords: ["@A-SOUL_Official", "#A_SOUL#"],
-            followings: [
-                703007996, // Asoul
-                547510303, // Asoul二创计画
-                672342685, // 乃琳Queen
-                351609538, // 珈乐Carol
-                672346917, // 向晚大魔王
-                672353429, // 贝拉kira
             ]
         },
         {
@@ -74,7 +61,7 @@ $(function () {
         {
             displayName: "街机端音游",
             displayIcon: "https://i1.hdslb.com/bfs/face/bac9333174cdc5a2246c4d30a645c0ca59487e77.jpg@240w_240h_1c_1s_.jpg",
-            keywords: ["舞萌", "iidx","maimai","beatmania","乌蒙","舞立方","神曲，我懂得欣赏","神曲 我懂得欣赏","神曲我懂得欣赏","zaquva","Ryu","dj mass","sdvx","ddr","pop'n","破盆","皆传","konami","bemani","sega","sbga","华立","胜骅"],
+            keywords: ["舞萌", "iidx","2dx","2bx","maimai"，"beatmania","乌蒙","舞立方","神曲，我懂得欣赏","神曲 我懂得欣赏","神曲我懂得欣赏","zaquva","Ryu","dj mass","sdvx","ddr","pop'n","破盆","皆传","konami","bemani","sega","sbga","华立","胜骅"],
         },
         {
             displayName: "动物园",
