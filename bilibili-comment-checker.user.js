@@ -39,7 +39,7 @@ $(function () {
         {
             displayName: "VTB",
             displayIcon: "https://i2.hdslb.com/bfs/face/d399d6f5cf7943a996ae96999ba3e6ae2a2988de.jpg@240w_240h_1c_1s.jpg",
-            keywords: ["@嘉然今天吃什么"，"罕见"],
+            keywords: ["@嘉然今天吃什么","罕见"],
             followings: [
                 672328094, // 嘉然今天吃什么
                 1437582453, // 東雪蓮Official
@@ -49,7 +49,7 @@ $(function () {
         {
             displayName: "移动端音游",
             displayIcon: "https://i0.hdslb.com/bfs/face/b3dd022d03c32a91be673d195a9f60c46217c406.jpg@240w_240h_1c_1s.jpg",
-            keywords: ["韵律源点", "臀","phi","你线","arc","musedash","喵斯","peropero","hasuhasu","lowiro","616","guy","鸽游","malody","4k","iidx um","iidx ultimate mobile","rzline"],
+            keywords: ["韵律源点","phi","你线","arc","musedash","喵斯","peropero","hasuhasu","lowiro","616","guy","鸽游","malody","4key","iidx um","iidx ultimate mobile","rzline"],
             followings: [
                 414149787, // Phigros官方
                 13241939, // Malody公式娘
@@ -61,7 +61,7 @@ $(function () {
         {
             displayName: "街机端音游",
             displayIcon: "https://i1.hdslb.com/bfs/face/bac9333174cdc5a2246c4d30a645c0ca59487e77.jpg@240w_240h_1c_1s_.jpg",
-            keywords: ["舞萌", "iidx","2dx","2bx","maimai"，"beatmania","乌蒙","舞立方","神曲，我懂得欣赏","神曲 我懂得欣赏","神曲我懂得欣赏","zaquva","Ryu","dj mass","sdvx","ddr","pop'n","破盆","皆传","konami","bemani","sega","sbga","华立","胜骅"],
+            keywords: ["舞萌", "iidx","2dx","2bx","maimai","beatmania","乌蒙","舞立方","神曲，我懂得欣赏","神曲 我懂得欣赏","神曲我懂得欣赏","zaquva","Ryu","dj mass","sdvx","ddr","pop'n","破盆","皆传","konami","bemani","sega","sbga","华立","胜骅"],
         },
         {
             displayName: "动物园",
@@ -79,7 +79,7 @@ $(function () {
             displayName: "华为",
             color: "#F21910",
             displayIcon: "https://i2.hdslb.com/bfs/face/d09290cd18c3e048ca0b2eefa3647a487ed11b77.jpg@240w_240h_1c_1s.jpg",
-            keywords: ["鸿蒙", "harmonyos"],
+            keywords: ["鸿蒙", "harmonyos","华为","huawei","荣耀","honor"],
             followings: [
                 102999485, // 华为终端
                 578227337, // 华为
@@ -189,7 +189,7 @@ $(function () {
             displayIcon: "https://i1.hdslb.com/bfs/face/09b00d35a88cbfb7c570d5299af7bbb69c84e19c.jpg@240w_240h_1c_1s.jpg",
             keywords: ["球球大作战","球球号"],
             followings: [
-                186701878, // 明日方舟
+                186701878, // 球球大作战
             ]
         },
         {
