@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         B站成分检测器
-// @version      1.14
+// @version      1.14.514
 // @author       xulaupuz,trychen
 // @namespace    trychen.com
 // @license      GPLv3
@@ -12,7 +12,7 @@
 // @icon         https://static.hdslb.com/images/favicon.ico
 // @connect      bilibili.com
 // @grant        GM_xmlhttpRequest
-// @require      https://cdn.jsdelivr.net/npm/jquery@3.6.1/dist/jquery.min.js
+// @require      https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js
 // ==/UserScript==
 
 $(function () {
@@ -25,7 +25,7 @@ $(function () {
             followings: [401742377] // 原神官方
         },
         {
-            displayName: "崩坏3",
+            displayName: "崩",
             displayIcon: "https://i0.hdslb.com/bfs/face/f861b2ff49d2bb996ec5fd05ba7a1eeb320dbf7b.jpg@240w_240h_1c_1s.jpg",
             keywords: ["​互动抽奖 #崩坏", "关注爱酱并转发本条动态"],
             followings: [27534330] // 崩坏3官方
